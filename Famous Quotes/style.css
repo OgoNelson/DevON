@@ -8,7 +8,7 @@ h1 {
 .motivate {
     width: 50%;
     margin-left: 25%;
-    margin-top: 25px;
+    margin-top: 50px;
     color: white;
     text-align: center;
     font-family: "Libre Baskerville", serif;
@@ -29,3 +29,11 @@ button {
 .next-btn {
     margin-left: 10%;
 }
+
+/*@media (min-width: 480px) and (max-width: 1200px) {
+    .motivate {
+        width: 70vw;
+        margin-left: 15vw;
+        margin-top: 5vh;
+    }
+}*/
